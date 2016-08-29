@@ -1,9 +1,10 @@
 #rpi-model
+---
 
 ##Description
 
     Module for checking if your NodeJS program runs on a Raspberry PI
----
+    
 
 ##Installation
 
