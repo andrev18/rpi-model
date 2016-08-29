@@ -3,7 +3,7 @@
 ##Description
 
     Module for checking if your NodeJS program runs on a Raspberry PI
-    
+
 
 ##Installation
 
@@ -20,3 +20,6 @@ rpi_model(function(status,model,revision){
     // revision - hardware revision code of the board 
 })
 ```
+
+
+
